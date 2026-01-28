@@ -1,6 +1,6 @@
 # Todo List - React Native & TypeScript
 
-Proyecto desarrollado para la asignatura de [Nombre de la Materia].
+Proyecto desarrollado para la asignatura de desarrollo hibrido para moviles.
 
 ## 🚀 Características
 - Gestión de tareas (CRUD básico).
